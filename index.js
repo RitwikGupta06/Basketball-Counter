@@ -16,15 +16,15 @@ function addH3(){
 
 
 function addA1(){
-    currHomeScore.textContent = Number(currHomeScore.textContent) + 1
+    currAwayScore.textContent = Number(currHomeScore.textContent) + 1
 }
 
 function addA2(){
-    currHomeScore.textContent = Number(currHomeScore.textContent) + 2
+    currAwayScore.textContent = Number(currHomeScore.textContent) + 2
 }
 
 function addA3(){
-    currHomeScore.textContent = Number(currHomeScore.textContent) + 3
+    currAwayScore.textContent = Number(currHomeScore.textContent) + 3
 }
 
 function resetAll(){
